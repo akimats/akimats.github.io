@@ -4,7 +4,7 @@
   <title><![CDATA[akimats's blog]]></title>
   <link href="http://akimats.github.io/atom.xml" rel="self"/>
   <link href="http://akimats.github.io/"/>
-  <updated>2014-12-12T21:26:44+09:00</updated>
+  <updated>2014-12-12T21:29:13+09:00</updated>
   <id>http://akimats.github.io/</id>
   <author>
     <name><![CDATA[akimats]]></name>
@@ -27,7 +27,7 @@
 <ul>
 <li>aa</li>
 <li>bb
-[[<a href="http://i.gyazo.com/20a98b623ba1b81b550cda8706300df0.png">http://i.gyazo.com/20a98b623ba1b81b550cda8706300df0.png</a>]]</li>
+<img src="http://i.gyazo.com/20a98b623ba1b81b550cda8706300df0.png" alt="http://i.gyazo.com/20a98b623ba1b81b550cda8706300df0.png" /></li>
 </ul>
 
 ]]></content>
